@@ -2,7 +2,7 @@
  * piezosensortoEEPROM.c
  *
  * Created: 20/3/2016 11:25:26
- * Author : J
+ * Author : Elias K.
  */ 
 
 
